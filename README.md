@@ -1,6 +1,6 @@
 # Spotify-Now-Playing SpotifyのNowPlayingをツイートするコードです。 
 
-##How to use TwitterAPIキー、SpotifyAPIキーをセットし、実行します。
+## How to use TwitterAPIキー、SpotifyAPIキーをセットし、実行します。
 
 画像の変更やわからないところはこちらのQiita記事を見て下さい。
 
